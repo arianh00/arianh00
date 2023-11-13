@@ -1,4 +1,4 @@
-> This Readme is also available in my native tongue: Spanish 🇪🇸
+> This Readme is also available in my native tongue: Spanish 🇪🇸 (See complete repo)
 # Hey there!! 👋 <br> Thanks for cheking me out :D 
 
 ### Student at University of León and Coolest older brother 😎​
@@ -19,15 +19,15 @@ I think improvement should be measured upon your past acomplishments and not upo
 
 I also love sports and I am very passionate about videogames.
 
-I currently play padel at an above amateur level and I also sky at semi-proffesional level.
+I currently play padel at an above amateur level and I also ski at semi-proffesional level.
 
 I love roguelikes and metroidvanias. I am also fascinated by how much of a mark a game can leave on a person.
 
 ## People I Love and Owe lots to ❤️​
 ### My family ​🧔🏻‍♂️​👱🏻‍♀️​👦🏻​🧒🏻​👴🏻​🧓🏻​
-  I literally wouldn´t be as I am today without their love and support
+  I literally wouldn´t be as I am today without their love and support.
 ### My friends 🤜🏻​🤛🏻​
-  Specially those who have supported me even when no one else would
+  Specially those who have supported me even when no one else would.
 ### My tutor 👨🏼‍💻​
   I quite literally wouldn´t be half the dev without the countless tips and tricks this man has given me. <br> Not to mention the continuous encouragement he has given me.
   > ***Please chek him out:*** [dmarts05](https://github.com/dmarts05)
