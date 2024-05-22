@@ -9,6 +9,8 @@ Llevo enamorado de la programación desde que hice mi primer __'Hola Mundo!'__ h
 
 Creo que la mejoría debería medirse exclusivamente con respecto a tus logros pasados y no con respecto a los de otras personas. <br> Es por eso que aspiro a ser al menos tan bueno como la mejor versión de mi mismo.
 
+Si te gusta esta pequeña introducción puedes seguir ivestigando en: <div align="left"><a href="https://www.linkedin.com/in/dmarts05/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a></div>
+
 ## Tech Stack 💻 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 
