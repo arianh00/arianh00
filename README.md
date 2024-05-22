@@ -9,6 +9,8 @@ I have been in love with coding since I made my first __'Hellow World!'__ four y
 
 I think improvement should be measured upon your past acomplishments and not upon some other people's. <br> Thus I aspire to be at least as good as the best version of myself.
 
+If you find this introduction interesting then you should check me out on: <div align="left"><a href="https://www.linkedin.com/in/dmarts05/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a></div>
+
 ## Tech Stack 💻 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 
